@@ -1,4 +1,4 @@
 data_analysis
 =============
 
-R language
+Computing for Data Analysis
